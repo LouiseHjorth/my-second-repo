@@ -1,3 +1,3 @@
 # hello-world
-# this is my repoosetory
+# this is my repository 
 # looking forward to meeting you 
