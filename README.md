@@ -1,3 +1,3 @@
 # hello-world
-# this is my my-second-repo
+# this is mine
 # looking forward to meeting you 
