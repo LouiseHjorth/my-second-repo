@@ -1,3 +1,3 @@
 # hello-world
-# this is my my-second
+# this is my
 # looking forward to meeting you 
